@@ -12,6 +12,6 @@ Allyson Shen |
 
 Flappy Nezuko is a Flappy Bird clone on Android developed using libGDX for **CPSC 411-02**.
 
-### Screenshot of start screen.
+## Screenshot of Start Page
 
 ![](https://cdn.discordapp.com/attachments/810452762008485918/843698824124170260/FlappyNezukoTitle.JPG)
