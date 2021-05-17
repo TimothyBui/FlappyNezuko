@@ -1,0 +1,4 @@
+#Sun May 16 20:37:09 PDT 2021
+base.0=C\:\\Users\\TIMOTHY\\Desktop\\School\\2021 Spring\\4. CPSC 411-02\\Flappy-Nezuko\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

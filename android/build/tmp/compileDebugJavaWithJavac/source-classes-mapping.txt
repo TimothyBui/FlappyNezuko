@@ -1,0 +1,10 @@
+com/flappynezuko/game/R.java
+ com.flappynezuko.game.R
+ com.flappynezuko.game.R$color
+ com.flappynezuko.game.R$drawable
+ com.flappynezuko.game.R$string
+ com.flappynezuko.game.R$style
+com/flappynezuko/game/BuildConfig.java
+ com.flappynezuko.game.BuildConfig
+com/flappynezuko/game/AndroidLauncher.java
+ com.flappynezuko.game.AndroidLauncher
