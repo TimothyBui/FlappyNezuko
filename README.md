@@ -4,7 +4,7 @@ by
 
 Timothy Bui | timothybui98@csu.fullerton.edu
 
-Allyson Shen | 
+Allyson Shen | allysonshen@csu.fullerton.edu
 
 ![](https://cdn.discordapp.com/attachments/803867088103014441/843668618013442099/FlappY_NezukO_logo.png)
 
